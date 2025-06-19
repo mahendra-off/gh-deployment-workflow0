@@ -10,7 +10,7 @@ This project demonstrates a simple GitHub Actions workflow to deploy a static we
 ## How It Works
 - The workflow triggers on every push to the `main` branch that modifies `index.html`.
 - It checks out the code, sets up GitHub Pages, and deploys the `index.html` file.
-- The website is accessible at `https://<username>.github.io/gh-deployment-workflow0/`.
+- The website is accessible at `[https://mahendra-off.github.io/gh-deployment-workflow0/](https://mahendra-off.github.io/gh-deployment-workflow0/)`.
 
 ## Setup Instructions
 1. Clone this repository.
